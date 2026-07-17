@@ -37,7 +37,7 @@ Developed an interactive Power BI dashboard to analyze Emergency Room operations
 
 ## Dashboard Preview
 
-https://github.com/shaktico/Hospital-Emergency-Room-Analysis/blob/main/image.png
+https://github.com/shaktico/Hospital-Emergency-Room-Analysis/commit/3855bdd8d23847cea74972cea904adcaa92b92db
 
 **Created By:** Shakti Singh Rajput
 
