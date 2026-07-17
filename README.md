@@ -34,7 +34,6 @@ Developed an interactive Power BI dashboard to analyze Emergency Room operations
 - Monthly View
 - Consolidated View
 - Patient Details
-- Key Takeaways
 
 ## Dashboard Preview
 
